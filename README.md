@@ -29,7 +29,8 @@ Using the slicing concept rotate the list
 
 Print the values after circulation the values 
 
-### Step 6: End the program
+### Step 6: 
+End the program
 
 ## Program:
 ```python
