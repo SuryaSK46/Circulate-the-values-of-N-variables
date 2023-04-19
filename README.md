@@ -45,7 +45,8 @@ n=int(input())
 
 
 ## Output:
-![image](https://user-images.githubusercontent.com/127716537/231049582-73a1b433-5765-4b21-933f-47efb5b38e0b.png)
+
+![Screenshot 2023-04-19 092622](https://user-images.githubusercontent.com/127716537/232965593-d53c807a-2ea2-4ccb-a00a-89c0f663253d.png)
 
 
 ## Result:
